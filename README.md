@@ -11,7 +11,7 @@
 
 **Final Project**
 
-I was a recipient of the Google - Udacity EU Scholarship. My final project for 1st Round was a "Tennis Counter": an app that counts the points in a tennis match. I was awarded the 2nd round scholarship: Android Basics Nanodegree[[Repo](https://github.com/KonstantinosBarmpas/Android-Basics-Udacity-Nanodegree-Projects/settings)]
+I was a recipient of the Google - Udacity EU Scholarship. My final project for 1st Round was a "Tennis Counter": an app that counts the points in a tennis match. I was awarded the 2nd round scholarship: Android Basics Nanodegree: [[Repo](https://github.com/KonstantinosBarmpas/Android-Basics-Udacity-Nanodegree-Projects/settings)]
 
 [//]: # (Images)
 
